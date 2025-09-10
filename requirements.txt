@@ -13,4 +13,5 @@ imagehash==4.3.2
 numpy==2.1.1
 openai==1.106.1
 torch==2.7.1
-torchvision==0.23.0
+torchvision==0.22.1
+
